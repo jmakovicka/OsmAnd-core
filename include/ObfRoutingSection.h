@@ -38,6 +38,15 @@ namespace OsmAnd {
 
     namespace gpb = google::protobuf;
 
+    // empty declarations
+    struct OSMAND_CORE_API RouteDataObject {
+
+    };
+
+    struct OSMAND_CORE_API RouteSegment {
+
+    };
+
     /**
     'Routing Region' section of OsmAnd Binary File
     */
